@@ -6,7 +6,7 @@ Public-media Press Associations
 * NFCB (National Federation of Community Broadcasters) public radio: https://nfcb.org/
 
 CPB member data from map HTML
-(div#block-uswds-cpb-sass-content div.geolocation-map-container div. div.geolocation-location)
+(``div#block-uswds-cpb-sass-content div.geolocation-map-container div. div.geolocation-location``)
 Data:
 * Call Letters (KPBS-FM)
 * Frequency
