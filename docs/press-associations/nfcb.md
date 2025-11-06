@@ -13,12 +13,11 @@ Data:
 * City
 * State
 
-NFCB Map JS
-JS var: ``var _pageData``
-Map-only link:
-https://www.google.com/maps/d/viewer?mid=19ojMe1b-U28DaXdKVFYHzC2rHm-gnY8
-JS var example:
-``[[\"Call Letters\",[\"KABR\"],1],null,null,[[\"License Holder\",[\"Alamo Navajo School Board\"],1],[\"City\",[\"Alamo\"],1],[\"Zip Code\",[\"87825\"],1]]],null,0],[\"50815A5B7E000002\",[[[39.075058999999996,-108.5522531]]]``
+NFCB Map JS<br>
+JS var: ``var _pageData``<br>
+Map-only link: https://www.google.com/maps/d/viewer?mid=19ojMe1b-U28DaXdKVFYHzC2rHm-gnY8<br>
+JS var example:<br>
+``[[\"Call Letters\",[\"KABR\"],1],null,null,[[\"License Holder\",[\"Alamo Navajo School Board\"],1],[\"City\",[\"Alamo\"],1],[\"Zip Code\",[\"87825\"],1]]],null,0],[\"50815A5B7E000002\",[[[39.075058999999996,-108.5522531]]]``<br>
 Data:
 * Call letters
 * License Holder
