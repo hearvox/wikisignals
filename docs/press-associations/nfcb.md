@@ -2,11 +2,12 @@ Public Media USA sheet:<br>
 https://docs.google.com/spreadsheets/d/1PwsHoKVTtmnwQriaUgj0soLoRs0PLv52fIFmoBcHHTs/
 
 Public-media Press Associations:
-* CPB (Corporation for Public Broadcasting) public radio and TV: https://cpb.org/stations
+* CPB (Corporation for Public Broadcasting) public radio and TV: https://cpb.org/
 * NFCB (National Federation of Community Broadcasters) public radio: https://nfcb.org/
 
 NFCB member data (combines map JS var and page HTML)<br>
-Sheet: https://docs.google.com/spreadsheets/d/1PwsHoKVTtmnwQriaUgj0soLoRs0PLv52fIFmoBcHHTs/edit?gid=295834323#gid=295834323<br>
+NFCB member: https://nfcb.org/map/<br>
+NFCB sheet: https://docs.google.com/spreadsheets/d/1PwsHoKVTtmnwQriaUgj0soLoRs0PLv52fIFmoBcHHTs/edit?gid=295834323#gid=295834323<br>
 CSS selector: ``div#fws_690c8c94e198a div.wpb_content_element``<br>
 Data:
 * Call letters
